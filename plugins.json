@@ -1,52 +1,55 @@
-[
-  {
-    "name": "StreamingCommunity",
-    "packageName": "com.blastb069.streamingcommunity",
-    "description": "Film e Serie TV da StreamingCommunity. Il dominio cambia spesso — aggiorna baseUrl nelle impostazioni se non carica.",
-    "version": 1,
-    "language": "it",
-    "iconUrl": "https://streamingunity.autos/apple-touch-icon.png?v=2",
-    "tvTypes": ["Movie", "TvSeries", "Documentary", "Cartoon"],
-    "url": "https://raw.githubusercontent.com/blastb069-maker/streamITA/main/plugins/StreamingCommunity.js"
-  },
-  {
-    "name": "AnimeUnity",
-    "packageName": "com.blastb069.animeunity",
-    "description": "Anime in italiano da AnimeUnity",
-    "version": 1,
-    "language": "it",
-    "iconUrl": "https://www.animeunity.so/apple-touch-icon.png",
-    "tvTypes": ["Anime", "AnimeMovie", "OVA"],
-    "url": "https://raw.githubusercontent.com/blastb069-maker/streamITA/main/plugins/AnimeUnity.js"
-  },
-  {
-    "name": "AnimeWorld",
-    "packageName": "com.blastb069.animeworld",
-    "description": "Anime in italiano da AnimeWorld",
-    "version": 1,
-    "language": "it",
-    "iconUrl": "https://static.animeworld.ac/assets/images/favicon/android-icon-192x192.png",
-    "tvTypes": ["Anime", "AnimeMovie", "OVA"],
-    "url": "https://raw.githubusercontent.com/blastb069-maker/streamITA/main/plugins/AnimeWorld.js"
-  },
-  {
-    "name": "AltaDefinizione",
-    "packageName": "com.blastb069.altadefinizione",
-    "description": "Film e Serie TV da AltaDefinizione",
-    "version": 1,
-    "language": "it",
-    "iconUrl": "https://altadefinizione.autos/templates/Dark/img/favicon.ico",
-    "tvTypes": ["Movie", "TvSeries", "Documentary"],
-    "url": "https://raw.githubusercontent.com/blastb069-maker/streamITA/main/plugins/AltaDefinizione.js"
-  },
-  {
-    "name": "CalcioStreaming",
-    "packageName": "com.blastb069.calciostreaming",
-    "description": "Live sport e calcio da CalcioStreaming",
-    "version": 1,
-    "language": "it",
-    "iconUrl": "https://uno.direttecommunity.online/templates/calciostreaming1/images/icons/apple-touch-icon.png",
-    "tvTypes": ["Live"],
-    "url": "https://raw.githubusercontent.com/blastb069-maker/streamITA/main/plugins/CalcioStreaming.js"
-  }
-]
+{
+  "name": "Italian Providers (doGior Port)",
+  "plugins": [
+    {
+      "name": "StreamingCommunity",
+      "packageName": "com.blastb069.streamingcommunity",
+      "description": "Film e Serie TV da StreamingCommunity.",
+      "version": 1,
+      "language": "it",
+      "iconUrl": "https://streamingunity.autos/apple-touch-icon.png?v=2",
+      "tvTypes": ["Movie", "TvSeries", "Documentary", "Cartoon"],
+      "url": "https://raw.githubusercontent.com/blastb069-maker/streamITA/main/plugins/StreamingCommunity.js"
+    },
+    {
+      "name": "AnimeUnity",
+      "packageName": "com.blastb069.animeunity",
+      "description": "Anime in italiano da AnimeUnity",
+      "version": 1,
+      "language": "it",
+      "iconUrl": "https://www.animeunity.so/apple-touch-icon.png",
+      "tvTypes": ["Anime", "AnimeMovie", "OVA"],
+      "url": "https://raw.githubusercontent.com/blastb069-maker/streamITA/main/plugins/AnimeUnity.js"
+    },
+    {
+      "name": "AnimeWorld",
+      "packageName": "com.blastb069.animeworld",
+      "description": "Anime in italiano da AnimeWorld",
+      "version": 1,
+      "language": "it",
+      "iconUrl": "https://static.animeworld.ac/assets/images/favicon/android-icon-192x192.png",
+      "tvTypes": ["Anime", "AnimeMovie", "OVA"],
+      "url": "https://raw.githubusercontent.com/blastb069-maker/streamITA/main/plugins/AnimeWorld.js"
+    },
+    {
+      "name": "AltaDefinizione",
+      "packageName": "com.blastb069.altadefinizione",
+      "description": "Film e Serie TV da AltaDefinizione",
+      "version": 1,
+      "language": "it",
+      "iconUrl": "https://altadefinizione.autos/templates/Dark/img/favicon.ico",
+      "tvTypes": ["Movie", "TvSeries", "Documentary"],
+      "url": "https://raw.githubusercontent.com/blastb069-maker/streamITA/main/plugins/AltaDefinizione.js"
+    },
+    {
+      "name": "CalcioStreaming",
+      "packageName": "com.blastb069.calciostreaming",
+      "description": "Live sport e calcio da CalcioStreaming",
+      "version": 1,
+      "language": "it",
+      "iconUrl": "https://uno.direttecommunity.online/templates/calciostreaming1/images/icons/apple-touch-icon.png",
+      "tvTypes": ["Live"],
+      "url": "https://raw.githubusercontent.com/blastb069-maker/streamITA/main/plugins/CalcioStreaming.js"
+    }
+  ]
+}
