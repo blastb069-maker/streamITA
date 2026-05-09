@@ -1,0 +1,52 @@
+[
+  {
+    "name": "StreamingCommunity",
+    "internalName": "StreamingCommunity",
+    "description": "Film e Serie TV da StreamingCommunity. Il dominio cambia spesso — aggiorna baseUrl nelle impostazioni se non carica.",
+    "version": 1,
+    "language": "it",
+    "iconUrl": "https://streamingunity.autos/apple-touch-icon.png?v=2",
+    "tvTypes": ["Movie", "TvSeries", "Documentary", "Cartoon"],
+    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/plugins/StreamingCommunity.js"
+  },
+  {
+    "name": "AnimeUnity",
+    "internalName": "AnimeUnity",
+    "description": "Anime in italiano da AnimeUnity",
+    "version": 1,
+    "language": "it",
+    "iconUrl": "https://www.animeunity.so/apple-touch-icon.png",
+    "tvTypes": ["Anime", "AnimeMovie", "OVA"],
+    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/plugins/AnimeUnity.js"
+  },
+  {
+    "name": "AnimeWorld",
+    "internalName": "AnimeWorld",
+    "description": "Anime in italiano da AnimeWorld",
+    "version": 1,
+    "language": "it",
+    "iconUrl": "https://static.animeworld.ac/assets/images/favicon/android-icon-192x192.png",
+    "tvTypes": ["Anime", "AnimeMovie", "OVA"],
+    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/plugins/AnimeWorld.js"
+  },
+  {
+    "name": "AltaDefinizione",
+    "internalName": "AltaDefinizione",
+    "description": "Film e Serie TV da AltaDefinizione",
+    "version": 1,
+    "language": "it",
+    "iconUrl": "https://altadefinizione.autos/templates/Dark/img/favicon.ico",
+    "tvTypes": ["Movie", "TvSeries", "Documentary"],
+    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/plugins/AltaDefinizione.js"
+  },
+  {
+    "name": "CalcioStreaming",
+    "internalName": "CalcioStreaming",
+    "description": "Live sport e calcio da CalcioStreaming",
+    "version": 1,
+    "language": "it",
+    "iconUrl": "https://uno.direttecommunity.online/templates/calciostreaming1/images/icons/apple-touch-icon.png",
+    "tvTypes": ["Live"],
+    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/plugins/CalcioStreaming.js"
+  }
+]

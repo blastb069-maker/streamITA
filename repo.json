@@ -1,0 +1,9 @@
+{
+  "name": "Italian Providers (doGior Port)",
+  "description": "Italian streaming providers ported from CloudStream to SkyStream JS format. Includes StreamingCommunity, AnimeUnity, AnimeWorld, AltaDefinizione, CalcioStreaming and more.",
+  "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/master/repo_icon.png",
+  "version": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/plugins.json"
+  ]
+}
