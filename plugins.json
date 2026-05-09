@@ -1,7 +1,7 @@
 [
   {
     "name": "StreamingCommunity",
-    "internalName": "StreamingCommunity",
+    "packageName": "com.blastb069.streamingcommunity",
     "description": "Film e Serie TV da StreamingCommunity. Il dominio cambia spesso — aggiorna baseUrl nelle impostazioni se non carica.",
     "version": 1,
     "language": "it",
@@ -11,7 +11,7 @@
   },
   {
     "name": "AnimeUnity",
-    "internalName": "AnimeUnity",
+    "packageName": "com.blastb069.animeunity",
     "description": "Anime in italiano da AnimeUnity",
     "version": 1,
     "language": "it",
@@ -21,7 +21,7 @@
   },
   {
     "name": "AnimeWorld",
-    "internalName": "AnimeWorld",
+    "packageName": "com.blastb069.animeworld",
     "description": "Anime in italiano da AnimeWorld",
     "version": 1,
     "language": "it",
@@ -31,7 +31,7 @@
   },
   {
     "name": "AltaDefinizione",
-    "internalName": "AltaDefinizione",
+    "packageName": "com.blastb069.altadefinizione",
     "description": "Film e Serie TV da AltaDefinizione",
     "version": 1,
     "language": "it",
@@ -41,7 +41,7 @@
   },
   {
     "name": "CalcioStreaming",
-    "internalName": "CalcioStreaming",
+    "packageName": "com.blastb069.calciostreaming",
     "description": "Live sport e calcio da CalcioStreaming",
     "version": 1,
     "language": "it",
