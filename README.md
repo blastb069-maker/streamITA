@@ -22,28 +22,6 @@ Port ufficioso dei plugin di [doGior](https://github.com/doGior/doGiorsHadEnough
 
 ---
 
-## Come pubblicare questa repo su GitHub
-
-1. Crea un nuovo repository GitHub pubblico
-2. Carica tutti questi file mantenendo la struttura:
-   ```
-   repo.json
-   plugins.json
-   plugins/
-     StreamingCommunity.js
-     AnimeUnity.js
-     AnimeWorld.js
-     AltaDefinizione.js
-     CalcioStreaming.js
-   ```
-3. In `repo.json` e `plugins.json` sostituisci `YOUR_USERNAME` e `YOUR_REPO` con i tuoi dati reali
-4. In SkyStream aggiungi:
-   ```
-   https://raw.githubusercontent.com/TUO_USERNAME/TUO_REPO/main/repo.json
-   ```
-
----
-
 ## ⚠️ Note importanti
 
 ### StreamingCommunity
