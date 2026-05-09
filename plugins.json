@@ -7,7 +7,7 @@
     "language": "it",
     "iconUrl": "https://streamingunity.autos/apple-touch-icon.png?v=2",
     "tvTypes": ["Movie", "TvSeries", "Documentary", "Cartoon"],
-    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/plugins/StreamingCommunity.js"
+    "url": "https://raw.githubusercontent.com/blastb069-maker/streamITA/main/plugins/StreamingCommunity.js"
   },
   {
     "name": "AnimeUnity",
@@ -17,7 +17,7 @@
     "language": "it",
     "iconUrl": "https://www.animeunity.so/apple-touch-icon.png",
     "tvTypes": ["Anime", "AnimeMovie", "OVA"],
-    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/plugins/AnimeUnity.js"
+    "url": "https://raw.githubusercontent.com/blastb069-maker/streamITA/main/plugins/AnimeUnity.js"
   },
   {
     "name": "AnimeWorld",
@@ -27,7 +27,7 @@
     "language": "it",
     "iconUrl": "https://static.animeworld.ac/assets/images/favicon/android-icon-192x192.png",
     "tvTypes": ["Anime", "AnimeMovie", "OVA"],
-    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/plugins/AnimeWorld.js"
+    "url": "https://raw.githubusercontent.com/blastb069-maker/streamITA/main/plugins/AnimeWorld.js"
   },
   {
     "name": "AltaDefinizione",
@@ -37,7 +37,7 @@
     "language": "it",
     "iconUrl": "https://altadefinizione.autos/templates/Dark/img/favicon.ico",
     "tvTypes": ["Movie", "TvSeries", "Documentary"],
-    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/plugins/AltaDefinizione.js"
+    "url": "https://raw.githubusercontent.com/blastb069-maker/streamITA/main/plugins/AltaDefinizione.js"
   },
   {
     "name": "CalcioStreaming",
@@ -47,6 +47,6 @@
     "language": "it",
     "iconUrl": "https://uno.direttecommunity.online/templates/calciostreaming1/images/icons/apple-touch-icon.png",
     "tvTypes": ["Live"],
-    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/plugins/CalcioStreaming.js"
+    "url": "https://raw.githubusercontent.com/blastb069-maker/streamITA/main/plugins/CalcioStreaming.js"
   }
 ]
