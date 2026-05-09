@@ -1,16 +1,15 @@
 {
-  "name": "StreamITA Repo",
-  "folders": [
+  "name": "StreamITA",
+  "id": "it.streamita.repo",
+  "plugin": [
     {
-      "name": "Video",
-      "plugins": [
-        {
-          "name": "Il Tuo Plugin",
-          "description": "Descrizione",
-          "uri": "https://raw.githubusercontent.com/blastb069-maker/streamITA/main/plugin.js",
-          "version": "1.0.0"
-        }
-      ]
+      "name": "streamITA PLUGIN",
+      "id": "it.streamita.mio-plugin",
+      "version": 1,
+      "url": "https://raw.githubusercontent.com/blastb069-maker/streamITA/main/mio-plugin.js"
     }
+  ],
+  "repos": [
+    "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/builds/repo.json"
   ]
 }
