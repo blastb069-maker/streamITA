@@ -1,9 +1,16 @@
 {
-  "name": "Italian Providers (doGior Port)",
-  "id": "com.blastb069.streamita",
-  "description": "Italian streaming providers: StreamingCommunity, AnimeUnity, AnimeWorld, AltaDefinizione, CalcioStreaming.",
-  "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/master/repo_icon.png",
-  "repos": [
-    "https://raw.githubusercontent.com/blastb069-maker/streamITA/main/plugins.json"
+  "name": "StreamITA Repo",
+  "folders": [
+    {
+      "name": "Video",
+      "plugins": [
+        {
+          "name": "Il Tuo Plugin",
+          "description": "Descrizione",
+          "uri": "https://raw.githubusercontent.com/blastb069-maker/streamITA/main/plugin.js",
+          "version": "1.0.0"
+        }
+      ]
+    }
   ]
 }
